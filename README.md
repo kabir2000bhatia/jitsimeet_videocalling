@@ -1,6 +1,7 @@
 # myapp
 
 A new Flutter project.
+Video calling app in flutter
 
 ## Getting Started
 
